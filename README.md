@@ -26,6 +26,8 @@
     python agent.py
     ```
 
+
+
 -   若您的电脑上未安装Python，您可直接打开`dist`文件夹，并运行`play.exe`文件来玩游戏。
 
 
