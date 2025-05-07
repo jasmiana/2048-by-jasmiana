@@ -23,7 +23,7 @@
 
     若您想试试人工智能是怎么玩游戏的，可在根目录下运行以下命令：
     ```bash
-    python agant.py
+    python agent.py
     ```
 
 ## 游戏控制
