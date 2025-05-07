@@ -21,6 +21,13 @@
     python game_2048.py
     ```
 
+    若您想试试人工智能是怎么玩游戏的，可在根目录下运行以下命令：
+    ```bash
+    python agent.py
+    ```
+
+若您的电脑上未安装Python，您可直接打开`dist`文件夹，并运行`agent.exe`文件来玩游戏。
+
 ## 游戏控制
 
 ### 玩家手动控制
@@ -128,6 +135,7 @@
 
 ## 游戏截图
 
+![2af72c6b8896c21925e3f5e6e127f4e](https://github.com/user-attachments/assets/74441625-2c42-4b8f-ac28-892ea9688c73)
 ---
 
 祝你游戏愉快！无论是亲自挑战2048，还是观察AI如何运筹帷幄！
