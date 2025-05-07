@@ -26,8 +26,11 @@
     python agent.py
     ```
 
+<<<<<<< HEAD
 -   若您的电脑上未安装Python，您可直接打开`dist`文件夹，并运行`play.exe`文件来玩游戏。
 
+=======
+>>>>>>> f4730e62daf1cce6a94ab7519984ad1c9cbbe9a7
 ## 游戏控制
 
 ### 玩家手动控制
